@@ -1,3 +1,5 @@
+Check out the deployed site here: https://mystifying-ptolemy-8b2cf1.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
